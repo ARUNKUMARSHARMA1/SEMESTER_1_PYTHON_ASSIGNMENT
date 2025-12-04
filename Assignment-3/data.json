@@ -1,0 +1,9 @@
+[
+    {
+        "title": "python basics",
+        "author": "john besos",
+        "isbn": "12345",
+        "genre": "programming",
+        "copies": 3
+    }
+]
